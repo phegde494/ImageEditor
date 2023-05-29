@@ -1,4 +1,4 @@
-# ImageEditor
+# Image Editor
 
 Run this software in your favorite IDE. 
 
